@@ -18,6 +18,6 @@ module.exports = yeoman.generators.Base.extend({
     this.nameSlug = this.name;
     this.nameSlugCC = _.camelCase(this.name);
     this.nameSlugKC = _.kebabCase(this.name);
-    this.template(this.templatePath('controller.js'), this.destinationPath('./' + this.nameSlugCC + 'Controller.js'));
+    this.template(this.templatePath('controller.js'), this.destinationPath('./controllers/' + this.nameSlugCC + 'Controller.js'));
   }
 });
