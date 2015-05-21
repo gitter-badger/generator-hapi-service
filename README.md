@@ -5,6 +5,8 @@ Maintained by: [michaelryancaputo](http://www.github.com/michaelryancaputo) and 
 
 ## System Requirements
 
+[![Join the chat at https://gitter.im/normative/generator-hapi-service](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/normative/generator-hapi-service?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Yeoman 1.4.5
 * Npm 2.1.17
 
